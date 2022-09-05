@@ -5,3 +5,4 @@
 5 Display the last 10 lines of a file
 6. Display the last 10 lines of a file
 7 Display 3rd line of a file 
+8 Create a file.contajnong new line
